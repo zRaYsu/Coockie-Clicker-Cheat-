@@ -86,7 +86,7 @@ button4.onclick = function() {
 div.appendChild(button4);
 
 let version = document.createElement('p');
-version.textContent = 'v.4.0';
+version.textContent = 'v.6.0';
 version.style.color = 'grey';
 version.style.position = 'absolute';
 version.style.bottom = '10px';
